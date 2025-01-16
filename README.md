@@ -3,6 +3,8 @@
 A comprehensive Learning Management System (LMS) designed to streamline school management tasks. This project is developed using modern web technologies to manage students, staff, class schedules, exam details, and other school operations efficiently.
 
 ---
+![register](https://github.com/user-attachments/assets/b1c276d3-b9d1-405b-a0fe-bfa01255a917)
+
 ![dashboard](https://github.com/user-attachments/assets/d49d6821-96c2-46d9-b59b-c8b4699b4078)
 
 ## Features
@@ -10,11 +12,19 @@ A comprehensive Learning Management System (LMS) designed to streamline school m
 - Add, edit, view, and delete student records.
 - CRUD operations for managing student details effectively.
 
+  ![student](https://github.com/user-attachments/assets/d5ba1038-c74e-4e23-966a-712368f10d12)
+![studregform](https://github.com/user-attachments/assets/7dbe045c-5853-46eb-bc3e-8f422be1dbb3)
+![parents](https://github.com/user-attachments/assets/11583d6f-0c56-41e9-b61b-1ac2d3fb060e)
+
+
 ### 2. Staff Management
 - Categorized staff into:
   - Operative Staff
   - Non-Operative Staff
 - Perform CRUD operations for staff management.
+
+  ![salary](https://github.com/user-attachments/assets/5833e8d9-0ad9-41f3-bf49-1a67632b0846)
+
 
 ### 3. Expenditure Calculator
 - Record and calculate school expenditures.
@@ -22,6 +32,9 @@ A comprehensive Learning Management System (LMS) designed to streamline school m
   - Amount entry
   - Source tracking
   - Remarks for expenditures
+ 
+  ![expense](https://github.com/user-attachments/assets/33c5af9b-29bb-4171-970b-46d34573238a)
+
 
 ### 4. Fees Structure
 - Define and manage the fee structure for each grade level.
@@ -30,6 +43,9 @@ A comprehensive Learning Management System (LMS) designed to streamline school m
 ### 5. Events Management
 - Maintain a list of upcoming and past events.
 - Features include event names, dates, and descriptions.
+
+  ![event](https://github.com/user-attachments/assets/d9147b6e-e3e6-4efe-8df6-d5381f1f75eb)
+
 
 ### 6. Class Timetable
 - Detailed timetables for all classes from UKG to 10th.
@@ -44,6 +60,8 @@ A comprehensive Learning Management System (LMS) designed to streamline school m
 - Includes subject names, dates, and timing for exams.
 
 ---
+![phpmyadmin](https://github.com/user-attachments/assets/e23e6bf7-f34e-48c8-b330-2b7a555766a5)
+
 
 ## Technologies Used
 ### Frontend
