@@ -3,6 +3,7 @@
 A comprehensive Learning Management System (LMS) designed to streamline school management tasks. This project is developed using modern web technologies to manage students, staff, class schedules, exam details, and other school operations efficiently.
 
 ---
+![dashboard](https://github.com/user-attachments/assets/d49d6821-96c2-46d9-b59b-c8b4699b4078)
 
 ## Features
 ### 1. Student Management
